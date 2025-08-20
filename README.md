@@ -45,9 +45,5 @@ Visit the Website :
 - GitHub: [Lazik-Latief](https://github.com/Lazik-Latief)  
 - Contact: +91 7889943194  
 
-<<<<<<< HEAD
----
 
-=======
----
 >>>>>>> f3822b2 (Initial commit - added website files)
