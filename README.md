@@ -34,7 +34,7 @@ It is a simple, mobile-friendly website that showcases our products and provides
 
 ## 🔗 Live Demo
 
-(If you host the site on GitHub Pages or Netlify, add the link here, e.g.)  
+Visit the Website :  
 👉 [View Website](https://lazik-latief.github.io/A-R-and-Sons/)
 
 ---
@@ -45,9 +45,5 @@ It is a simple, mobile-friendly website that showcases our products and provides
 - GitHub: [Lazik-Latief](https://github.com/Lazik-Latief)  
 - Contact: +91 7889943194  
 
-<<<<<<< HEAD
----
 
-=======
----
 >>>>>>> f3822b2 (Initial commit - added website files)
