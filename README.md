@@ -3,8 +3,6 @@
 This is the official website for **A. R. & Sons shop**, built using **HTML, CSS, Bootstrap, and JavaScript**.  
 It is a simple, mobile-friendly website that showcases our products and provides contact information for customers.
 
----
-
 ## ✨ Features
 
 - 🏠 **Home Page** – Modern design with company name and navigation buttons  
@@ -13,7 +11,7 @@ It is a simple, mobile-friendly website that showcases our products and provides
 - 💬 **WhatsApp Floating Button** – Quick chat support for customers  
 - 📱 **Responsive Design** – Works on mobile, tablet, and desktop  
 
----
+
 
 ## 🚀 Technologies Used
 
@@ -47,5 +45,9 @@ It is a simple, mobile-friendly website that showcases our products and provides
 - GitHub: [Lazik-Latief](https://github.com/Lazik-Latief)  
 - Contact: +91 7889943194  
 
+<<<<<<< HEAD
 ---
 
+=======
+---
+>>>>>>> f3822b2 (Initial commit - added website files)
