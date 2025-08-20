@@ -35,7 +35,7 @@ It is a simple, mobile-friendly website that showcases our products and provides
 ## 🔗 Live Demo
 
 (If you host the site on GitHub Pages or Netlify, add the link here, e.g.)  
-👉 [View Website](https://yourusername.github.io/your-repo-name/)
+👉 [View Website](https://lazik-latief.github.io/A-R-and-Sons/)
 
 ---
 
