@@ -1,2 +1,51 @@
-# A-R-and-Sons
-A modern, mobile-friendly website for a tiles and sanitaryware shop (tiles, marbles, washbasins, taps, bathroom fittings). Built using HTML, CSS, Bootstrap, and JavaScript, featuring product showcase, shop info, contact details, and Google Maps integration.
+# 🏪 A. R. & Sons 
+
+This is the official website for **A. R. & Sons shop**, built using **HTML, CSS, Bootstrap, and JavaScript**.  
+It is a simple, mobile-friendly website that showcases our products and provides contact information for customers.
+
+---
+
+## ✨ Features
+
+- 🏠 **Home Page** – Modern design with company name and navigation buttons  
+- 📦 **Products Section** – 9 product cards with images and descriptions  
+- 📍 **Contact Section** – Shop information, Google Maps embed, and business details  
+- 💬 **WhatsApp Floating Button** – Quick chat support for customers  
+- 📱 **Responsive Design** – Works on mobile, tablet, and desktop  
+
+---
+
+## 🚀 Technologies Used
+
+- **HTML5** – Page structure  
+- **CSS3** – Styling and layout  
+- **Bootstrap** – Responsive design and components  
+- **JavaScript** – Interactive elements  
+
+---
+
+## 📍 Shop Information
+
+- **Business Name:** A. R. & Sons Shop  
+- **Started:** 2008  
+- **Address:** Fruit Mandi Sopore, Baramulla, Srinagar  
+- **Office:** Ground Floor, A.R. Complex  
+- **Hours:** Monday–Saturday, 9 AM – 8 PM  
+
+---
+
+## 🔗 Live Demo
+
+(If you host the site on GitHub Pages or Netlify, add the link here, e.g.)  
+👉 [View Website](https://yourusername.github.io/your-repo-name/)
+
+---
+
+## 👤 Author
+
+- **Lazik Latief**  
+- GitHub: [Lazik-Latief](https://github.com/Lazik-Latief)  
+- Contact: +91 7889943194  
+
+---
+
