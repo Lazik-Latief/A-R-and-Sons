@@ -54,8 +54,10 @@
         color: #fff;
         text-align: center;
         padding: 28px 16px;
-        position: relative;
         overflow: hidden;
+        position: sticky;
+        top: 0; /* 👈 this makes it stick at the top */
+        z-index: 1000; /* 👈 optional, keeps it above other content */
       }
       .site-header::after {
         /* subtle dotted overlay for depth */
@@ -200,9 +202,9 @@
     <!-- ==========================================================
        HEADER: Brand name + big colorful buttons (open new tabs)
        ========================================================== -->
-    <header class="site-header">
+    <header class="site-header text-center py-4 py-md-5">
       <!-- Company/Shop Name (edit this text) -->
-      <h1 class="brand-title company-name">
+      <h1 class="brand-title company-name fs-3 fs-md-1">
         <i class="fa-solid fa-store"></i> A. R. &nbsp;&&nbsp; Sons
       </h1>
       <!-- Short line describing what you sell -->
@@ -212,11 +214,11 @@
 
       <!-- Large colorful buttons linking to other pages (open in new tab) -->
       <nav class="d-flex flex-wrap justify-content-center header-links mt-3">
-        <a class="btn-pill btn-products" href="#products" rel="noopener">
+        <a class="btn-pill btn-products btn-warning btn-sm me-2" href="#products" rel="noopener">
           <i class="fa-solid fa-box-open"></i> Products
         </a>
 
-        <a class="btn-pill btn-contact" href="#contact" rel="noopener">
+        <a class="btn-pill btn-contact btn-primary btn-sm" href="#contact" rel="noopener">
           <i class="fa-solid fa-phone"></i> Contact
         </a>
       </nav>
